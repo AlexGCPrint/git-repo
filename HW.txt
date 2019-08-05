@@ -1,17 +1,3 @@
 print("Hello world!")
 print("Hello everybody!")
-t
-t
-
-t
-t
-t
-t
-t
-t
-t
-t
-
-t
-t
-t
+Print ('Конфликт понятен')
